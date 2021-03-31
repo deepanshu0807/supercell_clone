@@ -1,9 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:supercell_clone/presentation/screens/games/hayday_game/hayday.dart';
 import 'package:supercell_clone/presentation/screens/main/careers_container.dart';
-import 'package:supercell_clone/presentation/screens/widgets/text_hover.dart';
 import 'package:supercell_clone/presentation/utils/utility.dart';
 
 import 'main/content_container.dart';

@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:supercell_clone/presentation/screens/games/hayday_game/video_section.dart';
 import 'package:supercell_clone/presentation/screens/main/footer.dart';
 import 'package:supercell_clone/presentation/screens/widgets/custom_appbar.dart';
-import 'package:supercell_clone/presentation/screens/widgets/text_hover.dart';
-import 'package:supercell_clone/presentation/utils/utility.dart';
 
 import 'about_game.dart';
 import 'game_banner.dart';

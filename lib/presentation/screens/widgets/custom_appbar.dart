@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:supercell_clone/presentation/screens/games/hayday_game/hayday.dart';
 import 'package:supercell_clone/presentation/screens/widgets/text_hover.dart';
 import 'package:supercell_clone/presentation/utils/utility.dart';
 import 'package:url_launcher/url_launcher.dart';
-
-import '../homepage.dart';
 
 class CustomAppBar extends StatefulWidget {
   @override
