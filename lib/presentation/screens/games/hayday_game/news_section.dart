@@ -6,7 +6,7 @@ class NewsSection extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: screenWidth(context),
-      child: Image.asset("assets/haydaynews.jpg"),
+      child: Image.asset("assets/haydaynews.JPG"),
     );
   }
 }

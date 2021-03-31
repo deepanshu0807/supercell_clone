@@ -19,7 +19,7 @@ class AboutGame extends StatelessWidget {
               height: screenHeight(context) / 2.2,
               width: screenWidth(context) / 2.3,
               child: Image.asset(
-                "assets/haydaymobile1.jpg",
+                "assets/haydaymobile1.JPG",
               ),
             ),
           ),

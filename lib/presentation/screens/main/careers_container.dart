@@ -8,7 +8,7 @@ class CareersContainer extends StatelessWidget {
       color: Colors.black,
       width: screenWidth(context),
       child: Image.asset(
-        "assets/careeerssection.jpg",
+        "assets/careeerssection.JPG",
         fit: BoxFit.cover,
       ),
     );
